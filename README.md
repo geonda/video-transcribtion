@@ -5,4 +5,5 @@ Small script to transcript video from streaming websites.
 - generetes audio files
 - uses [Yandex SpheachKit](https://cloud.yandex.com/en/docs/speechkit) to generate text from the audio 
 - saves it to .docx 
+
 profit!
