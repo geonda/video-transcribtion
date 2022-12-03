@@ -1,5 +1,5 @@
-# video-transcribtion
-Small script to transcribe video from streaming websites. 
+# video-transcription
+Small script to transcript video from streaming websites. 
 - it takes url to the video
 - downloads it in small chuncks 
 - generetes audio files
